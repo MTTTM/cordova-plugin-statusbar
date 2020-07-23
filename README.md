@@ -9,7 +9,7 @@ Plugin for Cordova >= 3.0
 
 For Cordova:
 
-	cordova plugin add https://git.oschina.net/ekuwang/cordova-plugin-statusbar.git
+	cordova plugin add https://github.com/MTTTM/cordova-plugin-statusbar.git
 
 #### Using the plugin
 
