@@ -1,0 +1,36 @@
+{
+    "name": "cordova-plugin-statusbar-height2",
+    "version": "1.2.0",
+    "description": "Plugin for Cordova (or PhoneGap) 3.0+ to enable true full screen on Android devices using lean and immersive modes",
+    "cordova": {
+      "id": "cordova-plugin-statusbar-height2",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MTTTM/cordova-plugin-statusbar.git"
+    },
+    "keywords": [
+      "cordova",
+      "android",
+      "fullscreen",
+      "lean",
+      "immersive",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ],
+    "author": "Neil Rackett",
+    "license": "BSD",
+    "bugs": {
+      "url": "https://github.com/MTTTM/cordova-plugin-statusbar.git"
+    },
+    "homepage": "https://github.com/MTTTM/cordova-plugin-statusbar#readme"
+  }
